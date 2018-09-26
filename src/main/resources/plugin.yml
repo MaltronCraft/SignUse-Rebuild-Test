@@ -1,0 +1,6 @@
+name: SignUse
+version: "1.0"
+api: ["1.0.5"]
+author: ZachPro96
+description: A simple plugin for sign teleporation
+main: me.zachpro.signuse.Main
